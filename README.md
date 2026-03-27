@@ -1,5 +1,7 @@
 # sensorlinx
 
+> **Deprecated:** This project is no longer maintained. Please use [pysensorlinx](https://github.com/sslivins/pysensorlinx) instead.
+
 A Python client library for the [HBX SensorLinx](https://mobile.sensorlinx.co) building automation platform. Supports reading sensor data, device status, weather, and historical readings for buildings managed through SensorLinx.
 
 This library was reverse-engineered from the SensorLinx mobile app. See [`API.md`](API.md) for the full API reference.
